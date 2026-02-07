@@ -100,7 +100,9 @@ Below are some projects that reflect my focus on mobile application development,
 <div align="center">
 
 ### 📱 Finance Mobile Application
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=ozdogrumerve&repo=digital-receipt-wallet&theme=tokyonight)](https://github.com/ozdogrumerve/digital-receipt-wallet)
+
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=ozdogrumerve&repo=digital-receipt-wallet&theme=tokyonight&cache_seconds=86400)](https://github.com/ozdogrumerve/digital-receipt-wallet)
+
 
 
 **Tech Stack:** Flutter • Dart • Firebase • Microsoft SQL Server  
