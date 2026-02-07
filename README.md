@@ -152,5 +152,3 @@ I'm always open to discussing new ideas, collaborating on interesting projects, 
 
   <sub>⭐ Feel free to star any repositories you find interesting – it motivates me!</sub>
 </div>
-
-<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/adb18d7d-578f-4c93-916f-33bb50061554" />
