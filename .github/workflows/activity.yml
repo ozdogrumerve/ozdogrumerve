@@ -13,7 +13,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v4   # 🔴 BU OLMAZSA README YOK SAYILIR
+        uses: actions/checkout@v4   
 
       - name: Update README
         uses: jamesgeorge007/github-activity-readme@v0.4.5
