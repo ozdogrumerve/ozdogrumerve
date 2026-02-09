@@ -2,7 +2,7 @@ name: GitHub Activity
 
 on:
   schedule:
-    - cron: "0 */6 * * *"
+    - cron: "0 */4 * * *"
   workflow_dispatch:
 
 permissions:
@@ -11,9 +11,10 @@ permissions:
 jobs:
   update-readme:
     runs-on: ubuntu-latest
+
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v4   
+        uses: actions/checkout@v4
 
       - name: Update README
         uses: jamesgeorge007/github-activity-readme@v0.4.5
