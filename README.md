@@ -87,6 +87,7 @@ A snapshot of my coding journey and contributions on GitHub.
 <img src="https://ghchart.rshah.org/409ba5/ozdogrumerve" alt="Contribution Calendar" width="100%"/>
 
 ### ⚡ Recent Activity
+
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
 
