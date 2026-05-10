@@ -89,6 +89,7 @@ A snapshot of my coding journey and contributions on GitHub.
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
+1. 🚀 Published release [TChat v1.0](https://github.com/ozdogrumerve/chat-app/releases/tag/v1.0) in [ozdogrumerve/chat-app](https://github.com/ozdogrumerve/chat-app)
 <!--END_SECTION:activity-->
 
 
